@@ -167,10 +167,6 @@
                 ]
             }
         },
-        "x-monitoring-stats": {
-            "monitoringId": "111",
-            "envId": "222"
-        },
         "/domestic-payment-consents/{ConsentId}/funds-confirmation": {
             "get": {
                 "tags": [
